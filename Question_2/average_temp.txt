@@ -1,0 +1,1 @@
+The average temp across all years is: 26.98119642857143
